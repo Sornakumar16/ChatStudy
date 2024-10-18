@@ -1,6 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-## Name:SHYAM SUJIN U
-## Reg No.212223040201
+## Name:S.SORNAKUMAR
+## Reg No.212223230210
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
